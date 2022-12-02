@@ -3,4 +3,4 @@
 Source data and codes for the ICS-613 Big Data Processing group project.
 We analyzed a US car sales dataset from Kaggle https://www.kaggle.com/datasets/tsaustin/us-used-car-sales-data
 
-The project is comprised of an Ipython notebook running pyspark (we ran it on databricks cummunity edition).
+The project is comprised of an Ipython notebook running pyspark (we ran it on databricks cummunity edition). It also uses a Hadoop MapReduce process to run a query on the dataset.
